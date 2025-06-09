@@ -1,2 +1,2 @@
-# idk2me.github.io
+# Gabis' blog
 My blog
