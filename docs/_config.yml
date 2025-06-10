@@ -22,11 +22,11 @@ title: Gabis' blog
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog. I'm trying to get employed. Preferrably remote, but office is also nice. EU/EEA
 domain: idk2me.github.io
-url: "https://idk2me.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://idk2me.github.io" 
 github_username: idk2me
 
 # Build settings
-theme: minima
+theme: hamilton
 plugins:
   - jekyll-feed
 
