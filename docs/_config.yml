@@ -26,7 +26,7 @@ url: "https://idk2me.github.io"
 github_username: idk2me
 
 # Build settings
-theme: hamilton
+theme: minima
 plugins:
   - jekyll-feed
 
