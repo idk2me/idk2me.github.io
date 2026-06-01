@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://idk2me.github.io/sitemap.xml

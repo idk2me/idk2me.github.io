@@ -1,2 +1,0 @@
-# Gabis' blog
-My blog
